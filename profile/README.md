@@ -197,7 +197,6 @@ All GM Consult repositories are Copyright 2024, *GM Consult Pty Ltd*, ALL RIGHTS
  
 
 ## References
-* [PioTemplate repo on github](https://github.com/gmconsult-io/PioTemplate)
 * [Calendar Versioning](https://calver.org/)
 * [<span style="text-decoration: underline">Doxy,gen</span>](https://www.doxygen.nl/)
 * [Programming Naming Conventions – Camel, Snake, Kebab, and Pascal Case Explained](https://www.freecodecamp.org/news/programming-naming-conventions-explained/)

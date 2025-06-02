@@ -1,4 +1,4 @@
-# [![Github Repo](https://github.com/gmconsult-io/.github/blob/main/.img/LOGO_24.png)](https://github.com/SixSense-Systems)  **GM Consult Pty Ltd**
+# [![Github Repo](https://github.com/gmconsult-io/.github/blob/main/.img/LOGO_48.png)](https://github.com/SixSense-Systems)  **GM Consult Pty Ltd**
 
 **Contents**
 - [  **SixSense Systems**](#--sixsense-systems)

@@ -1,6 +1,6 @@
 # [![Github Repo](https://github.com/gmconsult-io/.github/blob/main/.img/Header_Logo.png)](https://github.com/SixSenseMarine)  GM Consult Pty Ltd License Agreement
 
-This License governs the `Licensee`'s acquisition and use of the `IP`. Please read this License carefully before acquiring the `IP` . By aquiring the `IP`, the `Licensee` agrees to the terms of this License.
+This License governs the `Licensee`'s acquisition and use of the `IP`. Please read this License carefully before acquiring the `IP`. By aquiring the `IP`, the `Licensee` agrees to the terms of this License.
 
 **Contents**
 - [  GM Consult Pty Ltd License Agreement](#--gm-consult-pty-ltd-license-agreement)
@@ -34,7 +34,7 @@ related rights or assets (collectively, the "IP") acquired directly from the `Li
 
 ## Authority of the `Licensee` to Act
 
-If the `Licensee` is entering into this License on behalf of a company or other legal entity, the `Licensee` represents that the `Licensee` has the authority to bind such entity and its affiliates to these terms and conditions. If the `Licensee` does not have such authority or if the `Licensee` does not agree with the terms and conditions of this License,  the `Licensee` must not accept this License and must not acquire the `IP` .
+If the `Licensee` is entering into this License on behalf of a company or other legal entity, the `Licensee` represents that the `Licensee` has the authority to bind such entity and its affiliates to these terms and conditions. If the `Licensee` does not have such authority or if the `Licensee` does not agree with the terms and conditions of this License,  the `Licensee` must not accept this License and must not acquire the `IP`.
 
 This License shall apply only to the `IP` supplied by the `Licensor` herewith regardless of whether other `IP` is referred to or described herein. The terms also apply to any `Licensor` updates, supplements, Internet-based services and support services for the `IP`, unless other terms accompany those items on delivery. If so, those terms shall apply.
 
@@ -58,7 +58,7 @@ The `Licensor` reserves the right to grant licences to use the `IP` to third par
 
 ### Termination
 
-This License is effective from the date the `Licensee` first acquires the `IP` and shall continue until terminated. The `Licensee` may terminate it at any time upon written notice to the Licensor. It will also terminate immediately if the `Licensee` fails to comply with any term of this License. Upon such termination, the licenses granted by this License will immediately terminate and the `Licensee` agrees to stop all access and use of the `IP` . The provisions that by their nature continue and survive will survive any termination of this License.
+This License is effective from the date the `Licensee` first acquires the `IP` and shall continue until terminated. The `Licensee` may terminate it at any time upon written notice to the Licensor. It will also terminate immediately if the `Licensee` fails to comply with any term of this License. Upon such termination, the licenses granted by this License will immediately terminate and the `Licensee` agrees to stop all access and use of the `IP`. The provisions that by their nature continue and survive will survive any termination of this License.
 
 ### Governing Law
 
@@ -94,7 +94,7 @@ The `Licensee` hereby assigns, transfers, and conveys to the `Licensor` all righ
 
 ### Scope of Assignment
 
-The assignment of `IP` under this License includes all present and future rights, benefits, and interests in the `IP`, including the right to apply for, register, maintain, enforce, and license the `IP`, and to sue or take other legal action to protect the `IP` .
+The assignment of `IP` under this License includes all present and future rights, benefits, and interests in the `IP`, including the right to apply for, register, maintain, enforce, and license the `IP`, and to sue or take other legal action to protect the `IP`.
 
 ### Representations and Warranties
 

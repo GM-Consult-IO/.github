@@ -1,6 +1,6 @@
 # [![Github Repo](https://github.com/gmconsult-io/.github/blob/main/.img/Header_Logo.png)](https://github.com/SixSenseMarine)  GM Consult Pty Ltd License Agreement
 
-This License governs the `Licensee`'s acquisition and use of the `IP`. Please read this License carefully before acquiring the `IP`. By aquiring the `IP`, the `Licensee` agrees to the terms of this License.
+This License governs the `Licensee`'s acquisition and use of the `IP`. Please read this License carefully before acquiring the `IP`. By acquiring the `IP`, the `Licensee` agrees to the terms of this License.
 
 **Contents**
 - [  GM Consult Pty Ltd License Agreement](#--gm-consult-pty-ltd-license-agreement)

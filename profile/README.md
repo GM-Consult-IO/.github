@@ -4,7 +4,6 @@
 - [  **GM Consult Pty Ltd**](#--gm-consult-pty-ltd)
   - [Developer Guidelines](#developer-guidelines)
   - [Style Guide](#style-guide)
-    - [Namespaces](#namespaces)
     - [Naming Conventions](#naming-conventions)
     - [Code Documentation](#code-documentation)
   - [Checklists](#checklists)
@@ -32,9 +31,9 @@ The following guidelines must be followed in setting up a project or creating ne
 * All classes must have seperate declaration files in the `/lib/MyLibrary/include/` folder with the definition in the `/lib/MyLibrary/src/` folder.
 * Each class, struct and enum must have its own declaration file (`MyClass.h`) and a definition file (`MyClass.cpp`) for implentation. -->
 
-### Namespaces
+<!-- ### Namespaces
 
-All classes, structs, enums and global/static functions must be wrapped in the `SixSense` namespace. Extension functions must be added to the `ext` namespace.
+All classes, structs, enums and global/static functions must be wrapped in the `SixSense` namespace. Extension functions must be added to the `ext` namespace. -->
 
 ### Naming Conventions
 
@@ -188,12 +187,9 @@ public:
 
 ``` -->
 
-
 ## License
 
-*GM Consult Pty Ltd* retains ownership of the contents of this repository and the copyright, and other intellectual property rights of whatever nature, including any modifications made to the repository contents.
-
-All GM Consult repositories are Copyright 2024, *GM Consult Pty Ltd*, ALL RIGHTS RESERVED, and subject to the [license terms](https://github.com/gmconsult-io/.github/blob/main/profile/LICENSE.md) unless expressly noted otherwise.
+Copyright 2025, *GM Consult Pty Ltd*, ALL RIGHTS RESERVED ([license terms](https://github.com/gmconsult-io/.github/blob/main/profile/LICENSE.md)).
  
 
 ## References
